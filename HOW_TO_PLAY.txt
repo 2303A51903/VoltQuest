@@ -1,0 +1,67 @@
+========================================================================
+BATTERY RUN: THE LOST ENERGY ISLAND - PLAYER CONTROLS & MANUAL
+========================================================================
+
+CONTROLS:
+------------------------------------------------------------------------
+- Move:             W, A, S, D  or  Arrow Keys
+- Sprint:           Hold Left Shift (drains energy faster!)
+- Jump:             Spacebar
+- Look / Camera:    Move Mouse (orbit 3rd-person camera)
+- Pause / Menu:     ESC or P
+- Interact / UI:    Left Mouse Click
+
+SURVIVAL & ENERGY SYSTEM:
+------------------------------------------------------------------------
+- BOLT's battery starts at 100%.
+- Power continuously ticks down over time.
+- Watch your battery color:
+  * GREEN  (60% - 100%): Safe
+  * YELLOW (30% - 59%):  Caution
+  * RED    (0%  - 29%):  Critical Warning! Alarm will pulse!
+- 0% Battery = Shutdown / Game Over!
+- Collect normal yellow/green Batteries: +20% power & +100 points.
+- Discover hidden glowing purple Crystals: +35% power & +250 points.
+
+LEVEL WALKTHROUGHS & OBJECTIVES:
+------------------------------------------------------------------------
+LEVEL 1: THE LOST ISLAND
+  * Objectives: Collect 5 Batteries & 1 Hidden Crystal.
+  * Tips: Follow the sandy trail and cross the stepping stones. Check
+    behind the palm grove on the left for the secret crystal!
+  * Goal: Reach the glowing beacon at the cliff edge.
+
+LEVEL 2: DANGEROUS JUNGLE
+  * Objectives: Collect 8 Batteries & 2 Hidden Crystals.
+  * Tips: Time your jumps on the moving wooden platforms. Dodge the rolling
+    boulders and avoid the red scanner beams of the patrol drones!
+  * Goal: Cross the jungle ravine and reach the ancient gate portal.
+
+LEVEL 3: CRYSTAL CAVE
+  * Objectives: Collect 10 Batteries, 3 Crystals & Solve the Color Puzzle.
+  * Tips: Look out for trembling stalactites on the cavern ceiling!
+  * Puzzle Solution: Step on the colored pedestals in order:
+    RED -> BLUE -> GREEN. This lowers the giant crystal barrier!
+  * Goal: Reach the glowing shaft at the cavern depths.
+
+LEVEL 4: THE FINAL ENERGY CORE
+  * Objectives: Collect 12 Energy Cells & 4 Rare Power Crystals.
+  * Tips: Navigate the floating obsidian walkways over the void.
+    Avoid sentinel drones and ride moving energy bridges to the central core.
+  * Victory: Charge the Grand Core Generator and activate the island beacon!
+
+SCORING & STARS:
+------------------------------------------------------------------------
+- Normal Battery:       +100 pts
+- Rare Crystal:         +250 pts
+- Objective Completed:  +300 pts
+- Finish Level:         +500 pts
+- No Death Bonus:       +200 bonus pts
+- High Battery (>50%):  +200 bonus pts
+
+- 1 Star:  Complete the level
+- 2 Stars: Collect all batteries and at least 1 crystal
+- 3 Stars: Collect all batteries, all crystals, without dying or with >50% energy!
+
+Good luck, Commander! Help BOLT recharge the island and escape!
+========================================================================
